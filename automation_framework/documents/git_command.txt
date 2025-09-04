@@ -1,0 +1,5 @@
+1. git status (list out files changed)
+2. git add tenfile (thêm file changed to be committed)
+3. git status (check color -> green)
+4. git commit -m "nhap message here"
+5. git push  --set-upstream origin tennhanh (đẩy code lên repository)
